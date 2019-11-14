@@ -1,16 +1,21 @@
-title: Vy Tran # your name (or website title) here
-logo: "/images/vytran.png?raw=true" # your photo (or logo) here
+title: <p align="center"> Vy Tran </p>
+
+logo: "/images/vytran.png?raw=true" 
+
 location: "Baltimore, Maryland, USA"
-description: > # your text below (remove <br> elements if you don't need line breaks)
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/vy-tran-01/">LinkedIn</a> |
+  <a href="https://scholar.google.com/citations?hl=en&user=wCOh7Y0AAAAJ&scilu=&scisig=AMD79ooAAAAAXc3Gc39xZbw0IEpKjVBZ4cRYTq9tIbB8&gmla=AJsN-F5BbxaVRjIQXGPVD5P45x9dFFObIcam4QZ7Qar1vjXeDXuLrPzHzaH05My6hpD3IG7uFtSL-FF5NywWRt5NpqOdSGZiyrgl7NaR9yp9AEvS7iQJ6o0&sciund=16552258558291886132">Google Scholar</a> |
+  <a href="https://github.com/vy-p-tran">Github</a> 
+  </p>
+  
+  <p align="justify">
   PhD student in Bioinformatics, Johns Hopkins University. 
   <br><br>
   I have interdisciplinary training in biology, public health, and programming. I am passionate about data science and healthcare and skilled in quantitative data analysis with large genomic data sets, electronic health records, network analysis, and systems biology. I am also a highly effective academic writer and presenter. 
   <br><br>
-  <a href="https://www.linkedin.com/in/vy-tran-01/">LinkedIn | </a> 
-  <a href="https://scholar.google.com/citations?hl=en&user=wCOh7Y0AAAAJ&scilu=&scisig=AMD79ooAAAAAXc3Gc39xZbw0IEpKjVBZ4cRYTq9tIbB8&gmla=AJsN-F5BbxaVRjIQXGPVD5P45x9dFFObIcam4QZ7Qar1vjXeDXuLrPzHzaH05My6hpD3IG7uFtSL-FF5NywWRt5NpqOdSGZiyrgl7NaR9yp9AEvS7iQJ6o0&sciund=16552258558291886132">Google Scholar | </a> 
-  <a href="https://github.com/vy-p-tran">Github</a> 
+  </p>
+  
 theme: jekyll-theme-minimal
-github:
-  is_project_page: false
-
-
