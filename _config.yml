@@ -1,8 +1,13 @@
 title: Vy Tran # your name (or website title) here
 logo: "/images/vytran.png?raw=true" # your photo (or logo) here
 description: >
-I am completing my doctoral degree at Johns Hopkins University. I have interdisciplinary training in cancer biology, public health, and programming. Passionate about healthcare and data science, and skilled 
-in quantitative data analysis with large genomic data sets, electronic health records, network analysis, and systems biology. Highly effective academic writer and presenter.
+I am a doctoral student at Johns Hopkins University.<br>
+I have interdisciplinary training in cancer biology, <br>
+public health, and programming. Passionate about <br>
+healthcare and data science, and skilled in <br>
+quantitativedata analysis with large genomic data sets, <br>
+electronic health records, network analysis, and systems biology. <br>
+Highly effective academic writer and presenter. <br>
 <br><br>
 <a href="https://www.linkedin.com/in/example/">LinkedIn</a> 
 |
@@ -10,4 +15,5 @@ in quantitative data analysis with large genomic data sets, electronic health re
 |
 <a href="https://github.com/vy-p-tran">Github</a> 
 theme: jekyll-theme-minimal
+
 
