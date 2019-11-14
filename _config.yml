@@ -2,8 +2,6 @@ title: <p align="center"> Vy Tran </p>
 
 logo: "/images/vytran.png?raw=true" 
 
-location: "Baltimore, Maryland, USA"
-
 description:
   <p align="center">
   <a href="https://www.linkedin.com/in/vy-tran-01/">LinkedIn</a> |
@@ -11,11 +9,12 @@ description:
   <a href="https://github.com/vy-p-tran">Github</a> 
   </p>
   
-  <p align="justify">
+  <p align="center">
   PhD student in Bioinformatics, Johns Hopkins University. 
   <br><br>
   I have interdisciplinary training in biology, public health, and programming. I am passionate about data science and healthcare and skilled in quantitative data analysis with large genomic data sets, electronic health records, network analysis, and systems biology. I also enjoy giving highly effective presentations. 
   <br><br>
+  Location: Baltimore, Maryland, USA
   </p>
   
 theme: jekyll-theme-minimal
