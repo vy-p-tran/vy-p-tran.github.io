@@ -1,8 +1,6 @@
 title: Vy Tran # your name (or website title) here
-logo: 
-  <p align="center">
-    <img src="/images/vytran.png?raw=true">
-  </p>
+logo: "/images/vytran.png?raw=true" # your photo (or logo) here
+location: "Baltimore, Maryland, USA"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   PhD student in Bioinformatics, Johns Hopkins University. 
   <br><br>
