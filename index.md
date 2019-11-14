@@ -19,7 +19,6 @@
 
 ### Publication
 
-[Weighted Gene Correlation Network Analysis (WGCNA) Reveals Novel Transcription Factors Associated With Bisphenol A Dose-Response](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240694/)
+[1. Weighted Gene Correlation Network Analysis (WGCNA) Reveals Novel Transcription Factors Associated With Bisphenol A Dose-Response](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240694/)
 
----
-[AgRP Knockdown Blocks Long-Term Appetitive, but not Consummatory, Feeding Behaviors in Siberian hamsters](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897226/)
+[2. AgRP Knockdown Blocks Long-Term Appetitive, but not Consummatory, Feeding Behaviors in Siberian hamsters](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897226/)
