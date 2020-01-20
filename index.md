@@ -5,9 +5,16 @@
 ### Project
 
 [**Project 1 Network analysis of Bisphebol A (BPA) dose response**]
-
+<p align="left">
+<a href="https://vy-p-tran.github.io/pdf/Poster BPA_Vy Tran.pdf">View Research Poster</a>
+</p>
+<div style="text-align: justify"> Bisphenol A (BPA) is an industrial chemical used in the manufacture of plastic found in a number of consumer products such as thermal paper, canned foods and epoxy resin. Despite being subject to extensive study, a thorough understanding of molecular mechanism of BPA remains elusive. Here I used an unsupervised learning approach – weighted gene correlation network analysis (WGCNA) –  to show that despite some commonality in altered genes, there is minimal overlap between BPA and estrogen in terms of network topology. </div>
+<br>
+<img src="https://raw.githubusercontent.com/vy-p-tran/vy-p-tran.github.io/master/images/Poster BPA_Vy Tran.png"/>
+<br>
 
 ---
+
 [**Project 2 Reproducibility in breast cancer research: Is the cell line MCF7 a good model for breast cancer?**]
 <p align="left">
 <a href="https://vy-p-tran.github.io/pdf/2019 Poster_MCF7_Vy Tran.pdf">View Research Poster</a>
