@@ -4,7 +4,7 @@
 
 ### Project
 
-[**Project 1 Network analysis of Bisphebol A (BPA) dose response**]
+**Project 1 Network analysis of Bisphebol A (BPA) dose response**
 <p align="left">
 <a href="https://vy-p-tran.github.io/pdf/Poster BPA_Vy Tran.pdf">View Research Poster</a>
 </p>
@@ -15,7 +15,7 @@
 
 ---
 
-[**Project 2 Reproducibility in breast cancer research: Is the cell line MCF7 a good model for breast cancer?**]
+**Project 2 Reproducibility in breast cancer research: Is the cell line MCF7 a good model for breast cancer?**
 <p align="left">
 <a href="https://vy-p-tran.github.io/pdf/2019 Poster_MCF7_Vy Tran.pdf">View Research Poster</a>
 </p>
@@ -26,7 +26,7 @@
 
 ---
 
-[**Project 3 Look for the lost keys under the lamppost: an analysis of biases in gene annotation in cancer research**]
+**Project 3 Look for the lost keys under the lamppost: an analysis of biases in gene annotation in cancer research**
 <p align="left">
 <a href="https://vy-p-tran.github.io//pdf/Functionally enigmatic genes poster_Vy Tran.pdf"> View Research Poster</a>
 </p>
