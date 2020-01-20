@@ -1,19 +1,110 @@
-title: <p align="center"> Vy Tran </p>
 
-logo: "/images/vytran.png?raw=true" 
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-description:
-  <p align="left">
-  <a href="https://www.linkedin.com/in/vy-tran-01/">LinkedIn</a> |
-  <a href="https://scholar.google.com/citations?hl=en&user=wCOh7Y0AAAAJ&scilu=&scisig=AMD79ooAAAAAXc3Gc39xZbw0IEpKjVBZ4cRYTq9tIbB8&gmla=AJsN-F5BbxaVRjIQXGPVD5P45x9dFFObIcam4QZ7Qar1vjXeDXuLrPzHzaH05My6hpD3IG7uFtSL-FF5NywWRt5NpqOdSGZiyrgl7NaR9yp9AEvS7iQJ6o0&sciund=16552258558291886132">Google Scholar</a> |
-  <a href="https://github.com/vy-p-tran">Github</a> 
-  </p>
-  
-  <p align="left">
-  PhD student in Bioinformatics, Johns Hopkins University, Baltimore, USA
-  <br><br>
-  I have interdisciplinary training in biology, public health, and programming. I am skilled in working with large genomic data sets, electronic health records, network analysis, and systems biology. I also enjoy giving highly effective presentations. 
-  <br><br>
-  </p>
-  
-theme: jekyll-theme-minimal
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Vy Tran
+email: vtran21@jhmi.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  I have interdisciplinary training in biology, public health, and programming. I am skilled in working with large genomic data sets, electronic health records, network analysis, and systems biology. I also enjoy giving highly effective presentations.
+
+twitter_username: vyptran
+github_username: vy-p-tran
+minimal_mistakes_skin: default
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Vy Tran"
+  avatar : "/images/vytran.png"
+  bio    : "I am a data scientist with interdisciplary training in biology, medicine, and environmental health."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
